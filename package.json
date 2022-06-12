@@ -1,0 +1,26 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "simple express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirebirhan/nodejs-express-demo.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "api",
+    "rest",
+    "api"
+  ],
+  "author": "Birhan Nega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirebirhan/nodejs-express-demo/issues"
+  },
+  "homepage": "https://github.com/hirebirhan/nodejs-express-demo#readme"
+}
